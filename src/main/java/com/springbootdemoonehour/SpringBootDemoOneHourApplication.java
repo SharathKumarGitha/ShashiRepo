@@ -10,7 +10,7 @@ public class SpringBootDemoOneHourApplication {
 		SpringApplication.run(SpringBootDemoOneHourApplication.class, args);
 		
 		System.out.println("this is shashi");
-		System.out.println("this is sharath");)
+		System.out.println("this is sharath");
 	}
 
 }
